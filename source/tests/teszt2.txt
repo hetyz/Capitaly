@@ -1,0 +1,13 @@
+6
+CH 9000
+EST
+EST
+PEN 1000
+CH 1000
+PEN -15000
+2
+Zsofia greedy
+Lili careful
+4
+2211
+1111

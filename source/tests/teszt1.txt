@@ -1,0 +1,12 @@
+5
+CH 2000
+PEN -4000
+EST
+EST
+PEN -6000
+2
+Jozsef greedy
+Attila greedy
+4
+2111
+5326

@@ -1,0 +1,13 @@
+6
+PEN -7000
+EST
+EST
+EST
+CH 3000
+PEN -2000
+2
+Janos greedy
+Ferenc tactician
+5
+13121
+11155

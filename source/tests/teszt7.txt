@@ -1,0 +1,9 @@
+5
+CH 2000
+PEN -4000
+EST
+EST
+PEN -6000
+2
+Janos tactician
+Laci greedy

@@ -1,0 +1,19 @@
+10
+EST
+PEN -5000
+EST
+CH 1000
+EST
+PEN -7000
+EST
+CH 3000
+EST
+PEN -9000
+3
+Balazs greedy
+Lili careful
+Jozsef tactician
+8
+34334555
+45146224
+11334645
